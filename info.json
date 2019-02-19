@@ -1,0 +1,33 @@
+{
+  "01": "ПРОДУКТИ ХАРЧУВАННЯ ТА БЕЗАЛКОГОЛЬНІ НАПОЇ",
+  "ПРОДУКТИ ХАРЧУВАННЯ ТА БЕЗАЛКОГОЛЬНІ НАПОЇ": [
+    {
+      "number of groupCode": 2,
+      "groupName": [
+        "Продукти харчування",
+        "Безалкогольні напої"
+      ],
+      "classes and groups": {
+        "number of classes": [
+          9,
+          2
+        ],
+        "number of categories  of group1": [
+          5,
+          7,
+          4,
+          7,
+          5,
+          9,
+          8,
+          6,
+          4
+        ],
+        "number of categories  of group2": [
+          5,
+          7
+        ]
+      }
+    }
+  ]
+}

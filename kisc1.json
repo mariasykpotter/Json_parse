@@ -1,0 +1,1836 @@
+{
+  "sections": [
+    {
+      "sectionCode": "01",
+      "sectionName": "ПРОДУКТИ ХАРЧУВАННЯ ТА БЕЗАЛКОГОЛЬНІ НАПОЇ",
+      "groups": [
+        {
+          "groupCode": "01.1",
+          "groupName": "Продукти харчування",
+          "classes": [
+            {
+              "classCode": "01.1.1",
+              "className": "Хліб і хлібопродукти (ND)",
+              "categories": [
+                {
+                  "categoryCode": "01.1.1.1",
+                  "categoryName": "Рис"
+                },
+                {
+                  "categoryCode": "01.1.1.2",
+                  "categoryName": "Хліб"
+                },
+                {
+                  "categoryCode": "01.1.1.3",
+                  "categoryName": "Макаронні вироби"
+                },
+                {
+                  "categoryCode": "01.1.1.4",
+                  "categoryName": "Кондитерські вироби з борошна"
+                },
+                {
+                  "categoryCode": "01.1.1.5",
+                  "categoryName": "Інші продукти"
+                }
+              ]
+            },
+            {
+              "classCode": "01.1.2",
+              "className": "М’ясо та м`ясопродукти (ND)",
+              "categories": [
+                {
+                  "categoryCode": "01.1.2.1",
+                  "categoryName": "Свіжа, охолоджена, заморожена яловичина і телятина"
+                },
+                {
+                  "categoryCode": "01.1.2.2",
+                  "categoryName": "Свіжа, охолоджена, заморожена свинина"
+                },
+                {
+                  "categoryCode": "01.1.2.3",
+                  "categoryName": "Свіжа, охолоджена, заморожена баранина і козлятина"
+                },
+                {
+                  "categoryCode": "01.1.2.4",
+                  "categoryName": "Свіже, охолоджене, заморожене м`ясо свійської птиці"
+                },
+                {
+                  "categoryCode": "01.1.2.5",
+                  "categoryName": "Сушене, солене, копчене м’ясо та їстівні субпродукти"
+                },
+                {
+                  "categoryCode": "01.1.2.6",
+                  "categoryName": "Інші консервовані та перероблені види м’яса та продукти з нього"
+                },
+                {
+                  "categoryCode": "01.1.2.7",
+                  "categoryName": "Інші види свіжого, охолодженого, замороженого їстівного м'яса"
+                }
+              ]
+            },
+            {
+              "classCode": "01.1.3",
+              "className": "Риба та продукти з риби (ND)",
+              "categories": [
+                {
+                  "categoryCode": "01.1.3.1",
+                  "categoryName": "Свіжа, охолоджена та заморожена риба"
+                },
+                {
+                  "categoryCode": "01.1.3.2",
+                  "categoryName": "Свіжі, охолоджені та заморожені морепродукти"
+                },
+                {
+                  "categoryCode": "01.1.3.3",
+                  "categoryName": "Сушена, копчена, солона риба та морепродукти"
+                },
+                {
+                  "categoryCode": "01.1.3.4",
+                  "categoryName": "Інші консервовані чи перероблені види риби та морепродуктів і продукти з них"
+                }
+              ]
+            },
+            {
+              "classCode": "01.1.4",
+              "className": "Молоко, сир та яйця (ND)",
+              "categories": [
+                {
+                  "categoryCode": "01.1.4.1",
+                  "categoryName": "Молоко"
+                },
+                {
+                  "categoryCode": "01.1.4.2",
+                  "categoryName": "Молоко з низьким вмістом жиру"
+                },
+                {
+                  "categoryCode": "01.1.4.3",
+                  "categoryName": "Консервоване молоко"
+                },
+                {
+                  "categoryCode": "01.1.4.4",
+                  "categoryName": "Кисломолочна продукція"
+                },
+                {
+                  "categoryCode": "01.1.4.5",
+                  "categoryName": "Сир і м`який сир (творог)"
+                },
+                {
+                  "categoryCode": "01.1.4.6",
+                  "categoryName": "Інші молочні продукти"
+                },
+                {
+                  "categoryCode": "01.1.4.7",
+                  "categoryName": "Яйця"
+                }
+              ]
+            },
+            {
+              "classCode": "01.1.5",
+              "className": "Олія та жири (ND)",
+              "categories": [
+                {
+                  "categoryCode": "01.1.5.1",
+                  "categoryName": "Масло"
+                },
+                {
+                  "categoryCode": "01.1.5.2",
+                  "categoryName": "Маргарин та інші рослинні жири"
+                },
+                {
+                  "categoryCode": "01.1.5.3",
+                  "categoryName": "Оливкова олія (d = litre)"
+                },
+                {
+                  "categoryCode": "01.1.5.4",
+                  "categoryName": "Їстівна олія (окрім оливкової)"
+                },
+                {
+                  "categoryCode": "01.1.5.5",
+                  "categoryName": "Інші їстівні тваринні жири"
+                }
+              ]
+            },
+            {
+              "classCode": "01.1.6",
+              "className": "Фрукти (ND)",
+              "categories": [
+                {
+                  "categoryCode": "01.1.6.1",
+                  "categoryName": "Цитрусові (свіжі, охолоджені)"
+                },
+                {
+                  "categoryCode": "01.1.6.2",
+                  "categoryName": "Банани (свіжі, охолоджені) (d = kilo)"
+                },
+                {
+                  "categoryCode": "01.1.6.3",
+                  "categoryName": "Яблука (свіжі, охолоджені) (d = kilo)"
+                },
+                {
+                  "categoryCode": "01.1.6.4",
+                  "categoryName": "Груші (свіжі, охолоджені)  (d = kilo)"
+                },
+                {
+                  "categoryCode": "01.1.6.5",
+                  "categoryName": "Кісточкові (свіжі, охолоджені)"
+                },
+                {
+                  "categoryCode": "01.1.6.6",
+                  "categoryName": "Ягоди (свіжі, охолоджені, морожені)"
+                },
+                {
+                  "categoryCode": "01.1.6.7",
+                  "categoryName": "Інші види свіжих, охолоджених, заморожених фруктів"
+                },
+                {
+                  "categoryCode": "01.1.6.8",
+                  "categoryName": "Сухофрукти"
+                },
+                {
+                  "categoryCode": "01.1.6.9",
+                  "categoryName": "Консервовані фрукти та продукти на фруктовій основі"
+                }
+              ]
+            },
+            {
+              "classCode": "01.1.7",
+              "className": "Овочі (ND)",
+              "categories": [
+                {
+                  "categoryCode": "01.1.7.1",
+                  "categoryName": "Листяні та стеблові овочі (свіжі, охолоджені, заморожені)"
+                },
+                {
+                  "categoryCode": "01.1.7.2",
+                  "categoryName": "Капуста (свіжа, охолоджена, заморожена)"
+                },
+                {
+                  "categoryCode": "01.1.7.3",
+                  "categoryName": "Овочі, вирощені з їхнього насіння (свіжі, охолоджені, заморожені)"
+                },
+                {
+                  "categoryCode": "01.1.7.4",
+                  "categoryName": "Коренеплоди, цибуля та гриби (свіжі, охолоджені, заморожені)"
+                },
+                {
+                  "categoryCode": "01.1.7.5",
+                  "categoryName": "Сушені овочі та гриби (d = kilo)"
+                },
+                {
+                  "categoryCode": "01.1.7.6",
+                  "categoryName": "Консервовані та перероблені овочі"
+                },
+                {
+                  "categoryCode": "01.1.7.7",
+                  "categoryName": "Картопля"
+                },
+                {
+                  "categoryCode": "01.1.7.8",
+                  "categoryName": "Продукти з картоплі"
+                }
+              ]
+            },
+            {
+              "classCode": "01.1.8",
+              "className": "Цукор, джем, мед, шоколад  та кондитерські вироби (ND)",
+              "categories": [
+                {
+                  "categoryCode": "01.1.8.1",
+                  "categoryName": "Цукор і штучні замінники цукру"
+                },
+                {
+                  "categoryCode": "01.1.8.2",
+                  "categoryName": "Джеми, повидло, мед"
+                },
+                {
+                  "categoryCode": "01.1.8.3",
+                  "categoryName": "Шоколад"
+                },
+                {
+                  "categoryCode": "01.1.8.4",
+                  "categoryName": "Кондитерські вироби з цукру"
+                },
+                {
+                  "categoryCode": "01.1.8.5",
+                  "categoryName": "Харчовий лід  і морозиво"
+                },
+                {
+                  "categoryCode": "01.1.8.6",
+                  "categoryName": "Інші продукти з цукру"
+                }
+              ]
+            },
+            {
+              "classCode": "01.1.9",
+              "className": "Інші продукти харчування (ND)",
+              "categories": [
+                {
+                  "categoryCode": "01.1.9.1",
+                  "categoryName": "Соуси, приправи"
+                },
+                {
+                  "categoryCode": "01.1.9.2",
+                  "categoryName": "Сіль, прянощі та кулінарні трави"
+                },
+                {
+                  "categoryCode": "01.1.9.3",
+                  "categoryName": "Бакалійні товари, десерти, супи"
+                },
+                {
+                  "categoryCode": "01.1.9.4",
+                  "categoryName": "Інші харчові продукти"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "01.2",
+          "groupName": "Безалкогольні напої",
+          "classes": [
+            {
+              "classCode": "01.2.1",
+              "className": "Кава, чай і какао (ND)",
+              "categories": [
+                {
+                  "categoryCode": "01.2.1.1",
+                  "categoryName": "Кава"
+                },
+                {
+                  "categoryCode": "01.2.1.2",
+                  "categoryName": "Чай"
+                },
+                {
+                  "categoryCode": "01.2.1.3",
+                  "categoryName": "Какао та порошковий шоколад"
+                }
+              ]
+            },
+            {
+              "classCode": "01.2.2",
+              "className": "Мінеральні води, безалкогольні напої, фруктові та овочеві соки (ND)",
+              "categories": [
+                {
+                  "categoryCode": "01.2.2.1",
+                  "categoryName": "Мінеральні та джерельні води"
+                },
+                {
+                  "categoryCode": "01.2.2.2",
+                  "categoryName": "Безалкогольні напої"
+                },
+                {
+                  "categoryCode": "01.2.2.3",
+                  "categoryName": "Фруктові соки"
+                },
+                {
+                  "categoryCode": "01.2.2.4",
+                  "categoryName": "Овочеві соки"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionCode": "02",
+      "sectionName": "АЛКОГОЛЬНІ НАПОЇ, ТЮТЮНОВІ ВИРОБИ ТА НАРКОТИКИ",
+      "groups": [
+        {
+          "groupCode": "02.1",
+          "groupName": "Алкогольні напої",
+          "classes": [
+            {
+              "classCode": "02.1.1",
+              "className": "Спирти (ND)",
+              "categories": [
+                {
+                  "categoryCode": "02.1.1.1",
+                  "categoryName": "Спирти та лікери"
+                }
+              ]
+            },
+            {
+              "classCode": "02.1.2",
+              "className": "Вино (ND)",
+              "categories": [
+                {
+                  "categoryCode": "02.1.2.1",
+                  "categoryName": "Вино з винограду чи інших фруктів"
+                },
+                {
+                  "categoryCode": "02.1.2.2",
+                  "categoryName": "Інші види алкогольних напоїв"
+                }
+              ]
+            },
+            {
+              "classCode": "02.1.3",
+              "className": "Пиво (ND)",
+              "categories": [
+                {
+                  "categoryCode": "02.1.3.1",
+                  "categoryName": "Пиво"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "02.2",
+          "groupName": "Тютюнові вироби",
+          "classes": [
+            {
+              "classCode": "02.2.1",
+              "className": "Тютюнові вироби (ND)",
+              "categories": [
+                {
+                  "categoryCode": "02.2.1.1",
+                  "categoryName": "Сигарети"
+                },
+                {
+                  "categoryCode": "02.2.1.2",
+                  "categoryName": "Сигари"
+                },
+                {
+                  "categoryCode": "02.2.1.3",
+                  "categoryName": "Інші види тютюнових виробів"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "02.3",
+          "groupName": "Наркотичні вироби",
+          "classes": [
+            {
+              "classCode": "02.3.1",
+              "className": "Наркотичні вироби (ND)",
+              "categories": [
+                {
+                  "categoryCode": "02.3.1.1",
+                  "categoryName": "Наркотичні вироби"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionCode": "03",
+      "sectionName": "ОДЯГ І ВЗУТТЯ",
+      "groups": [
+        {
+          "groupCode": "03.1",
+          "groupName": "Одяг",
+          "classes": [
+            {
+              "classCode": "03.1.1",
+              "className": "Тканини для виготовлення одягу (SD)",
+              "categories": [
+                {
+                  "categoryCode": "03.1.1.1",
+                  "categoryName": "Тканини для виготовлення одягу"
+                }
+              ]
+            },
+            {
+              "classCode": "03.1.2",
+              "className": "Одяг (SD)",
+              "categories": [
+                {
+                  "categoryCode": "03.1.2.1",
+                  "categoryName": "Одяг для чоловіків"
+                },
+                {
+                  "categoryCode": "03.1.2.2",
+                  "categoryName": "Одяг для жінок"
+                },
+                {
+                  "categoryCode": "03.1.2.3",
+                  "categoryName": "Одяг для хлопчиків і дівчаток (3–13 років) і немовлят (0–2 роки)"
+                }
+              ]
+            },
+            {
+              "classCode": "03.1.3",
+              "className": "Інші предмети одягу та аксесуари (SD)",
+              "categories": [
+                {
+                  "categoryCode": "03.1.3.1",
+                  "categoryName": "Інші предмети одягу та аксесуари"
+                }
+              ]
+            },
+            {
+              "classCode": "03.1.4",
+              "className": "Чищення, ремонт і прокат одягу (S)",
+              "categories": [
+                {
+                  "categoryCode": "03.1.4.1",
+                  "categoryName": "Чищення, ремонт і прокат одягу"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "03.2",
+          "groupName": "Взуття",
+          "classes": [
+            {
+              "classCode": "03.2.1",
+              "className": "Черевики та інше взуття (SD)",
+              "categories": [
+                {
+                  "categoryCode": "03.2.1.1",
+                  "categoryName": "Взуття для чоловіків"
+                },
+                {
+                  "categoryCode": "03.2.1.2",
+                  "categoryName": "Взуття для жінок"
+                },
+                {
+                  "categoryCode": "03.2.1.3",
+                  "categoryName": "Взуття для дітей (3–13 років) і немовлят (0–2 роки)"
+                }
+              ]
+            },
+            {
+              "classCode": "03.2.2",
+              "className": "Ремонт і прокат взуття (S)",
+              "categories": [
+                {
+                  "categoryCode": "03.2.2.1",
+                  "categoryName": "Ремонт і прокат взуття"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionCode": "04",
+      "sectionName": "ЖИТЛО, ВОДА, ЕЛЕКТРОЕНЕРГІЯ, ГАЗ ТА ІНШІ ВИДИ ПАЛИВА",
+      "groups": [
+        {
+          "groupCode": "04.1",
+          "groupName": "Фактична плата за житло",
+          "classes": [
+            {
+              "classCode": "04.1.1",
+              "className": "Плата за орендоване житло (S)",
+              "categories": [
+                {
+                  "categoryCode": "04.1.1",
+                  "categoryName": "Плата за орендоване житло"
+                }
+              ]
+            },
+            {
+              "classCode": "04.1.2",
+              "className": "Плата за інше орендоване житло (S)",
+              "categories": [
+                {
+                  "categoryCode": "04.1.2.1",
+                  "categoryName": "Плата за інше орендоване житло (S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "04.2",
+          "groupName": "Плата за власне житло",
+          "classes": [
+            {
+              "classCode": "04.2.1",
+              "className": "Плата за власне основне житло  (S)",
+              "categories": [
+                {
+                  "categoryCode": "04.2.1.1",
+                  "categoryName": "Плата за власне основне житло в багатоквартирних будинках"
+                }
+              ]
+            },
+            {
+              "classCode": "04.2.2",
+              "className": "Інші види плати за житло  (S)",
+              "categories": [
+                {
+                  "categoryCode": "04.2.2.1",
+                  "categoryName": "Умовно нарахована плата за житло для домогосподарств, які мешкають у ньому безплатно"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "04.3",
+          "groupName": "Утримання та ремонт житла",
+          "classes": [
+            {
+              "classCode": "04.3.1",
+              "className": "Матеріали для утримання і ремонту житла (ND)",
+              "categories": [
+                {
+                  "categoryCode": "04.3.1.1",
+                  "categoryName": "Матеріали для утримання і ремонту житла"
+                }
+              ]
+            },
+            {
+              "classCode": "04.3.2",
+              "className": "Послуги з утримання та ремонту житла (S)",
+              "categories": [
+                {
+                  "categoryCode": "04.3.2.1",
+                  "categoryName": "Послуги з утримання та ремонту житла"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "04.4",
+          "groupName": "Водопостачання та різні послуги, які відносяться до утримання житла",
+          "classes": [
+            {
+              "classCode": "04.4.1",
+              "className": "Водопостачання (S)",
+              "categories": [
+                {
+                  "categoryCode": "04.4.1.1",
+                  "categoryName": "Водопостачання"
+                }
+              ]
+            },
+            {
+              "classCode": "04.4.2",
+              "className": "Прибирання сміття (S)",
+              "categories": [
+                {
+                  "categoryCode": "04.4.2.1",
+                  "categoryName": "Прибирання сміття"
+                }
+              ]
+            },
+            {
+              "classCode": "04.4.3",
+              "className": "Каналізація (S)",
+              "categories": [
+                {
+                  "categoryCode": "04.4.3.1",
+                  "categoryName": "Каналізація"
+                }
+              ]
+            },
+            {
+              "classCode": "04.4.4",
+              "className": "Інші послуги, пов’язані з утриманням житла (S)",
+              "categories": [
+                {
+                  "categoryCode": "04.4.4.1",
+                  "categoryName": "Інші послуги, пов’язані з утриманням житла"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "04.5",
+          "groupName": "Електроенергія, газ та інші види палива",
+          "classes": [
+            {
+              "classCode": "04.5.1",
+              "className": "Електроенергія (ND)",
+              "categories": [
+                {
+                  "categoryCode": "04.5.1.1",
+                  "categoryName": "Електроенергія"
+                }
+              ]
+            },
+            {
+              "classCode": "04.5.2",
+              "className": "Газ (ND)",
+              "categories": [
+                {
+                  "categoryCode": "04.5.2.1",
+                  "categoryName": "Природний газ"
+                },
+                {
+                  "categoryCode": "04.5.2.2",
+                  "categoryName": "Скраплений газ  (бутан, пропан тощо)"
+                }
+              ]
+            },
+            {
+              "classCode": "04.5.3",
+              "className": "Рідке паливо (ND)",
+              "categories": [
+                {
+                  "categoryCode": "04.5.3.1",
+                  "categoryName": "Рідке паливо"
+                }
+              ]
+            },
+            {
+              "classCode": "04.5.4",
+              "className": "Тверде паливо (ND)",
+              "categories": [
+                {
+                  "categoryCode": "04.5.4.1",
+                  "categoryName": "Тверде паливо"
+                }
+              ]
+            },
+            {
+              "classCode": "04.5.5",
+              "className": "Гаряча вода, опалення  (ND)",
+              "categories": [
+                {
+                  "categoryCode": "04.5.5.1",
+                  "categoryName": "Гаряча вода, опалення та лід"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionCode": "05",
+      "sectionName": "ПРЕДМЕТИ ДОМАШНЬОГО ВЖИТКУ, ПОБУТОВА ТЕХНІКА ТА ПОТОЧНЕ УТРИМАННЯ ЖИТЛА",
+      "groups": [
+        {
+          "groupCode": "05.1",
+          "groupName": "Меблі та предмети обстановки, килими та інші види покриттів для підлоги",
+          "classes": [
+            {
+              "classCode": "05.1.1",
+              "className": "Меблі та предмети обстановки (D)",
+              "categories": [
+                {
+                  "categoryCode": "05.1.1.1",
+                  "categoryName": "Меблі та предмети обстановки"
+                }
+              ]
+            },
+            {
+              "classCode": "05.1.2",
+              "className": "Килими й інші види покриттів для підлоги (D)",
+              "categories": [
+                {
+                  "categoryCode": "05.1.2.1",
+                  "categoryName": "Килими й інші види покриттів для підлоги (D)"
+                }
+              ]
+            },
+            {
+              "classCode": "05.1.3",
+              "className": "Ремонт меблів, предметів обстановки та покриття для підлоги (S)",
+              "categories": [
+                {
+                  "categoryCode": "05.1.3.1",
+                  "categoryName": "Ремонт меблів, предметів обстановки та покриття для підлоги"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "05.2",
+          "groupName": "Домашній текстиль",
+          "classes": [
+            {
+              "classCode": "05.2.1",
+              "className": "Домашній текстиль (SD)",
+              "categories": [
+                {
+                  "categoryCode": "05.2.1.1",
+                  "categoryName": "Домашній текстиль"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "05.3",
+          "groupName": "Побутова техніка",
+          "classes": [
+            {
+              "classCode": "05.3.1",
+              "className": "Велика побутова техніка електрична та неелектрична (D)",
+              "categories": [
+                {
+                  "categoryCode": "05.3.1.1",
+                  "categoryName": "Холодильники, морозильники таморозильні камери"
+                },
+                {
+                  "categoryCode": "05.3.1.2",
+                  "categoryName": "Пральні, сушильні та посудомийні машини"
+                },
+                {
+                  "categoryCode": "05.3.1.3",
+                  "categoryName": "Плити"
+                },
+                {
+                  "categoryCode": "05.3.1.4",
+                  "categoryName": "Обігрівачі, кондиціонери повітря"
+                },
+                {
+                  "categoryCode": "05.3.1.5",
+                  "categoryName": "Прилади для прибирання"
+                },
+                {
+                  "categoryCode": "05.3.1.6",
+                  "categoryName": "Швейні та в’язальні машини"
+                },
+                {
+                  "categoryCode": "05.3.1.7",
+                  "categoryName": "Інша велика побутова техніка"
+                }
+              ]
+            },
+            {
+              "classCode": "05.3.2",
+              "className": "Невеликі електричні побутові прилади (SD)",
+              "categories": [
+                {
+                  "categoryCode": "05.3.2.1",
+                  "categoryName": "Невеликі електричні побутові прилади"
+                }
+              ]
+            },
+            {
+              "classCode": "05.3.3",
+              "className": "Ремонт побутової техніки  (S)",
+              "categories": [
+                {
+                  "categoryCode": "05.3.3.1",
+                  "categoryName": "Ремонт побутової техніки"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "05.4",
+          "groupName": "Вироби зі скла, столовий посуд і предмети домашнього вжитку",
+          "classes": [
+            {
+              "classCode": "05.4.1",
+              "className": "Вироби зі скла, столовий посуд і предмети домашнього вжитку (SD)",
+              "categories": [
+                {
+                  "categoryCode": "05.4.1.1",
+                  "categoryName": "Вироби зі скла та кришталю, столовий посуд"
+                },
+                {
+                  "categoryCode": "05.4.1.2",
+                  "categoryName": "Ножі, столові прибори та столове срібло"
+                },
+                {
+                  "categoryCode": "05.4.1.3",
+                  "categoryName": "Кухонний посуд і предмети домашнього вжитку"
+                },
+                {
+                  "categoryCode": "05.4.1.4",
+                  "categoryName": "Ремонт скляних предметів, столового посуду та предметів домашнього вжитку"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "05.5",
+          "groupName": "Інструменти й обладнання для дому та саду",
+          "classes": [
+            {
+              "classCode": "05.5.1",
+              "className": "Великі інструменти й обладнання (D)",
+              "categories": [
+                {
+                  "categoryCode": "05.5.1.1",
+                  "categoryName": "Великі інструменти й обладнання"
+                }
+              ]
+            },
+            {
+              "classCode": "05.5.2",
+              "className": "Невеликі інструменти та різні аксесуари (SD)",
+              "categories": [
+                {
+                  "categoryCode": "05.5.2.1",
+                  "categoryName": "Невеликі інструменти та різні аксесуари"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "05.6",
+          "groupName": "Товари та послуги для щоденної підтримки будинку",
+          "classes": [
+            {
+              "classCode": "05.6.1",
+              "className": "Побутові товари короткострокового користування (ND)",
+              "categories": [
+                {
+                  "categoryCode": "05.6.1.1",
+                  "categoryName": "Товари для підтримки чистоти"
+                },
+                {
+                  "categoryCode": "05.6.1.2",
+                  "categoryName": "Інші побутові товари"
+                }
+              ]
+            },
+            {
+              "classCode": "05.6.2",
+              "className": "Послуги з ведення домашнього господарства (S)",
+              "categories": [
+                {
+                  "categoryCode": "05.6.2.1",
+                  "categoryName": "Послуги з ведення домашнього господарства"
+                },
+                {
+                  "categoryCode": "05.6.2.2",
+                  "categoryName": "Побутові послуги"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionCode": "06",
+      "sectionName": "ОХОРОНА ЗДОРОВ’Я",
+      "groups": [
+        {
+          "groupCode": "06.1",
+          "groupName": "Фармацевтична продукція, медичні товари та обладнання",
+          "classes": [
+            {
+              "classCode": "06.1.1",
+              "className": "Фармацевтична продукція (ND)",
+              "categories": [
+                {
+                  "categoryCode": "06.1.1.1",
+                  "categoryName": "Фармацевтична продукція"
+                }
+              ]
+            },
+            {
+              "classCode": "06.1.2",
+              "className": "Інші медичні товари(ND)",
+              "categories": [
+                {
+                  "categoryCode": "06.1.2.1",
+                  "categoryName": "Інші медичні товари"
+                }
+              ]
+            },
+            {
+              "classCode": "06.1.3",
+              "className": "Медичні прилади та обладнання (D)",
+              "categories": [
+                {
+                  "categoryCode": "06.1.3.1",
+                  "categoryName": "Медичні прилади та обладнання"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "06.2",
+          "groupName": "Амбулаторні послуги",
+          "classes": [
+            {
+              "classCode": "06.2.1",
+              "className": "Медичні послуги (S)",
+              "categories": [
+                {
+                  "categoryCode": "06.2.1.1",
+                  "categoryName": "Медичні послуги"
+                }
+              ]
+            },
+            {
+              "classCode": "06.2.2",
+              "className": "Стоматологічні послуги (S)",
+              "categories": [
+                {
+                  "categoryCode": "06.2.2.1",
+                  "categoryName": "Стоматологічніпослуги"
+                }
+              ]
+            },
+            {
+              "classCode": "06.2.3",
+              "className": "Парамедичні послуги (S)",
+              "categories": [
+                {
+                  "categoryCode": "06.2.3.1",
+                  "categoryName": "Послуги медичних лабораторій і рентгенологічних центрів"
+                },
+                {
+                  "categoryCode": "06.2.3.2",
+                  "categoryName": "Послуги допоміжного медичного персоналу"
+                },
+                {
+                  "categoryCode": "06.2.3.3",
+                  "categoryName": "Інші амбулаторні послуги"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "06.3",
+          "groupName": "Послуги лікарень",
+          "classes": [
+            {
+              "classCode": "06.3.1",
+              "className": "Послуги лікарень (S)",
+              "categories": [
+                {
+                  "categoryCode": "06.3.1.1",
+                  "categoryName": "Послуги лікарень"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionCode": "07",
+      "sectionName": "ТРАНСПОРТ",
+      "groups": [
+        {
+          "groupCode": "07.1",
+          "groupName": "Купівля транспортних засобів",
+          "classes": [
+            {
+              "classCode": "07.1.1",
+              "className": "Автомобілі (D)",
+              "categories": [
+                {
+                  "categoryCode": "07.1.1.1",
+                  "categoryName": "Купівля нових автомобілів"
+                },
+                {
+                  "categoryCode": "07.1.1.2",
+                  "categoryName": "Купівля уживанихавтомобілів"
+                }
+              ]
+            },
+            {
+              "classCode": "07.1.2",
+              "className": "Мотоцикли (D)",
+              "categories": [
+                {
+                  "categoryCode": "07.1.2.1",
+                  "categoryName": "Мотоцикли"
+                }
+              ]
+            },
+            {
+              "classCode": "07.1.3",
+              "className": "Велосипеди (D)",
+              "categories": [
+                {
+                  "categoryCode": "07.1.3.1",
+                  "categoryName": "Велосипеди"
+                }
+              ]
+            },
+            {
+              "classCode": "07.1.4",
+              "className": "Гужовий транспорт (D)",
+              "categories": [
+                {
+                  "categoryCode": "07.1.4.1",
+                  "categoryName": "Гужовий транспорт"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "07.2",
+          "groupName": "Експлуатація власних транспортних засобів",
+          "classes": [
+            {
+              "classCode": "07.2.1",
+              "className": "Запасні частини й аксесуари (SD)",
+              "categories": [
+                {
+                  "categoryCode": "07.2.1.1",
+                  "categoryName": "Запасні частини й аксесуари"
+                }
+              ]
+            },
+            {
+              "classCode": "07.2.2",
+              "className": "Паливо та мастила (ND)",
+              "categories": [
+                {
+                  "categoryCode": "07.2.2.1",
+                  "categoryName": "Паливо та мастила"
+                }
+              ]
+            },
+            {
+              "classCode": "07.2.3",
+              "className": "Обслуговування та ремонт власних транспортних засобів (S)",
+              "categories": [
+                {
+                  "categoryCode": "07.2.3.1",
+                  "categoryName": "Обслуговування та ремонт"
+                }
+              ]
+            },
+            {
+              "classCode": "07.2.4",
+              "className": "Інші послуги, пов’язані з обслуговуванням власних транспортних засобів (S)",
+              "categories": [
+                {
+                  "categoryCode": "07.2.4.1",
+                  "categoryName": "Інші послуги, пов’язані з обслуговуванням власних транспортних засобів (S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "07.3",
+          "groupName": "Транспортні послуги",
+          "classes": [
+            {
+              "classCode": "07.3.1",
+              "className": "Залізничний пасажирський транспорт (S)",
+              "categories": [
+                {
+                  "categoryCode": "07.3.1.1",
+                  "categoryName": "Залізничний пасажирський транспорт"
+                }
+              ]
+            },
+            {
+              "classCode": "07.3.2",
+              "className": "Автодорожній пасажирський транспорт (S)",
+              "categories": [
+                {
+                  "categoryCode": "07.3.2.1",
+                  "categoryName": "Автодорожній пасажирський транспорт"
+                }
+              ]
+            },
+            {
+              "classCode": "07.3.3",
+              "className": "Авіаційний пасажирський транспорт (S)",
+              "categories": [
+                {
+                  "categoryCode": "07.3.3.1",
+                  "categoryName": "Авіаційний пасажирський транспорт"
+                }
+              ]
+            },
+            {
+              "classCode": "07.3.4",
+              "className": "Морський і річковий пасажирський транспорт (S)",
+              "categories": [
+                {
+                  "categoryCode": "07.3.4.1",
+                  "categoryName": "Морський і річковий пасажирський транспорт"
+                }
+              ]
+            },
+            {
+              "classCode": "07.3.5",
+              "className": "Комбінований пасажирський транспорт (S)",
+              "categories": [
+                {
+                  "categoryCode": "07.3.5.1",
+                  "categoryName": "Комбінований пасажирський транспорт"
+                }
+              ]
+            },
+            {
+              "classCode": "07.3.6",
+              "className": "Інші транспортні послуги (S)",
+              "categories": [
+                {
+                  "categoryCode": "07.3.6.1",
+                  "categoryName": "Інші транспортні послуги"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionCode": "08",
+      "sectionName": "ЗВ’ЯЗОК",
+      "groups": [
+        {
+          "groupCode": "08.1",
+          "groupName": "Поштові послуги",
+          "classes": [
+            {
+              "classCode": "08.1.1",
+              "className": "Поштові послуги (S)",
+              "categories": [
+                {
+                  "categoryCode": "08.1.1.1",
+                  "categoryName": "Поштові послуги"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "08.2",
+          "groupName": "Телефонне й телефаксове обладнання",
+          "classes": [
+            {
+              "classCode": "08.2.1",
+              "className": "Телефонне й телефаксове обладнання (D)",
+              "categories": [
+                {
+                  "categoryCode": "08.2.1.1",
+                  "categoryName": "Телефонне й телефаксове обладнання"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "08.3",
+          "groupName": "Телефонні і телефаксові послуги",
+          "classes": [
+            {
+              "classCode": "08.3.1",
+              "className": "Телефонні і телефаксові послуги (S)",
+              "categories": [
+                {
+                  "categoryCode": "08.3.1.1",
+                  "categoryName": "Телефонні та телефаксові послуги"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionCode": "09",
+      "sectionName": "ВІДПОЧИНОК І КУЛЬТУРА",
+      "groups": [
+        {
+          "groupCode": "09.1",
+          "groupName": "Аудіотехніка, фотоапаратура та обладнання для обробки інформації",
+          "classes": [
+            {
+              "classCode": "09.1.1",
+              "className": "Обладнання для прийому, запису та відтворення звуку і зображення (D)",
+              "categories": [
+                {
+                  "categoryCode": "09.1.1.1",
+                  "categoryName": "Обладнання для прийому, запису та відтворення звуку"
+                },
+                {
+                  "categoryCode": "09.1.1.2",
+                  "categoryName": "Телевізори, відеоплеєри та відеомагнітофони"
+                }
+              ]
+            },
+            {
+              "classCode": "09.1.2",
+              "className": "Фото- та  кінематографічне обладнання, оптичні прилади (D)",
+              "categories": [
+                {
+                  "categoryCode": "09.1.2.1",
+                  "categoryName": "Фото- та кінематографічне обладнання"
+                },
+                {
+                  "categoryCode": "09.1.2.2",
+                  "categoryName": "Оптичні прилади"
+                }
+              ]
+            },
+            {
+              "classCode": "09.1.3",
+              "className": "Обладнання для обробки інформації (D)",
+              "categories": [
+                {
+                  "categoryCode": "09.1.3.1",
+                  "categoryName": "Обладнання для обробки інформації"
+                }
+              ]
+            },
+            {
+              "classCode": "09.1.4",
+              "className": "Засоби запису відео- та аудіоінформації (SD)",
+              "categories": [
+                {
+                  "categoryCode": "09.1.4.1",
+                  "categoryName": "Засоби для запису зображення і звуку"
+                }
+              ]
+            },
+            {
+              "classCode": "09.1.5",
+              "className": "Ремонт аудіотехніки, фотоапаратури й обладнання для обробки інформації (S)",
+              "categories": [
+                {
+                  "categoryCode": "09.1.5.1",
+                  "categoryName": "Ремонт аудіотехніки, фотоапаратури й обладнання для обробки інформації"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "09.2",
+          "groupName": "Інші великі прилади довгострокового користування для відпочинку та культурних заходів",
+          "classes": [
+            {
+              "classCode": "09.2.1",
+              "className": "Великі прилади довгострокового користування для відпочинку поза домом (D)",
+              "categories": [
+                {
+                  "categoryCode": "09.2.1.1",
+                  "categoryName": "Великі прилади довгострокового користування для відпочинку поза домом"
+                }
+              ]
+            },
+            {
+              "classCode": "09.2.2",
+              "className": "Музичні інструменти та великі предмети довгострокового користування для відпочинку в приміщенні (D)",
+              "categories": [
+                {
+                  "categoryCode": "09.2.2.1",
+                  "categoryName": "Музичні інструменти"
+                },
+                {
+                  "categoryCode": "09.2.2.2",
+                  "categoryName": "Великі предмети довгострокового користування для відпочинку в приміщенні"
+                }
+              ]
+            },
+            {
+              "classCode": "09.2.3",
+              "className": "Обслуговування та ремонт інших великих предметів для відпочинку та культурних заходів (S)",
+              "categories": [
+                {
+                  "categoryCode": "09.2.3.1",
+                  "categoryName": "Обслуговування та ремонт інших великих предметів для відпочинку та культурних заходів"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "09.3",
+          "groupName": "Інші предмети для відпочинку, садівництво та домашні тварини-улюбленці",
+          "classes": [
+            {
+              "classCode": "09.3.1",
+              "className": "Ігри, іграшки та хобі (SD)",
+              "categories": [
+                {
+                  "categoryCode": "09.3.1.1",
+                  "categoryName": "Ігри, іграшки та хобі"
+                }
+              ]
+            },
+            {
+              "classCode": "09.3.2",
+              "className": "Знаряддя для спорту, туризму і відпочинку на відкритому повітрі (SD)",
+              "categories": [
+                {
+                  "categoryCode": "09.3.2.1",
+                  "categoryName": "Знаряддя для спорту, туризму і відпочинку на відкритому повітрі"
+                }
+              ]
+            },
+            {
+              "classCode": "09.3.3",
+              "className": "Садівництво, рослини та квіти (ND)",
+              "categories": [
+                {
+                  "categoryCode": "09.3.3.1",
+                  "categoryName": "Садівництво, рослини та квіти"
+                }
+              ]
+            },
+            {
+              "classCode": "09.3.4",
+              "className": "Домашні тварини-улюбленці та товари для них (ND)",
+              "categories": [
+                {
+                  "categoryCode": "09.3.4.1",
+                  "categoryName": "Домашні тварини-улюбленці та товари для них"
+                }
+              ]
+            },
+            {
+              "classCode": "09.3.5",
+              "className": "Ветеринарні й інші послуги для домашніх тварин-улюбленців (S)",
+              "categories": [
+                {
+                  "categoryCode": "09.3.5.1",
+                  "categoryName": "Ветеринарні й інші послуги для домашніхтварин-улюбленців"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "09.4",
+          "groupName": "Послуги відпочинку та культури",
+          "classes": [
+            {
+              "classCode": "09.4.1",
+              "className": "Послуги відпочинку та спорту (S)",
+              "categories": [
+                {
+                  "categoryCode": "09.4.1.1",
+                  "categoryName": "Послуги відпочинку та спорту"
+                }
+              ]
+            },
+            {
+              "classCode": "09.4.2",
+              "className": "Послуги культури (S)",
+              "categories": [
+                {
+                  "categoryCode": "09.4.2.1",
+                  "categoryName": "Кінотеатри, театри, концерти"
+                },
+                {
+                  "categoryCode": "09.4.2.2",
+                  "categoryName": "Музеї, зоопарки тощо"
+                },
+                {
+                  "categoryCode": "09.4.2.3",
+                  "categoryName": "Плата за теле- і радіомовлення та прокат обладнання"
+                },
+                {
+                  "categoryCode": "09.4.2.4",
+                  "categoryName": "Інші послуги"
+                }
+              ]
+            },
+            {
+              "classCode": "09.4.3",
+              "className": "Азартні ігри (S)",
+              "categories": [
+                {
+                  "categoryCode": "09.4.3.1",
+                  "categoryName": "Азартні ігри"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "09.5",
+          "groupName": "Газети, книжки та канцелярські товари",
+          "classes": [
+            {
+              "classCode": "09.5.1",
+              "className": "Книжки (SD)",
+              "categories": [
+                {
+                  "categoryCode": "09.5.1.1",
+                  "categoryName": "Книжки"
+                }
+              ]
+            },
+            {
+              "classCode": "09.5.2",
+              "className": "Газети та періодичні видання (ND)",
+              "categories": [
+                {
+                  "categoryCode": "09.5.2.1",
+                  "categoryName": "Газети та періодичні видання"
+                }
+              ]
+            },
+            {
+              "classCode": "09.5.3",
+              "className": "Різна друкована продукція (ND)",
+              "categories": [
+                {
+                  "categoryCode": "09.5.3.1",
+                  "categoryName": "Різна друкована продукція"
+                }
+              ]
+            },
+            {
+              "classCode": "09.5.4",
+              "className": "Канцелярські товари та приладдя для малювання(ND)",
+              "categories": [
+                {
+                  "categoryCode": "09.5.4.1",
+                  "categoryName": "Канцелярські товари та приладдя для малювання"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "09.6",
+          "groupName": "Туристичні послуги",
+          "classes": [
+            {
+              "classCode": "09.6.1",
+              "className": "Туристичні послуги (S)",
+              "categories": [
+                {
+                  "categoryCode": "09.6.1.1",
+                  "categoryName": "Туристичні послуги"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionCode": "10",
+      "sectionName": "ОСВІТА",
+      "groups": [
+        {
+          "groupCode": "10.1",
+          "groupName": "Дошкільна та початкова освіта",
+          "classes": [
+            {
+              "classCode": "10.1.1",
+              "className": "Дошкільна та початкова освіта (S)",
+              "categories": [
+                {
+                  "categoryCode": "10.1.1.1",
+                  "categoryName": "Дошкільна та початкова освіта"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "10.2",
+          "groupName": "Середня освіта",
+          "classes": [
+            {
+              "classCode": "10.2.1",
+              "className": "Середня освіта (S)",
+              "categories": [
+                {
+                  "categoryCode": "10.2.1.1",
+                  "categoryName": "Середня освіта"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "10.3",
+          "groupName": "Професійно-технічна освіта",
+          "classes": [
+            {
+              "classCode": "10.3.1",
+              "className": "Професійно-технічна освіта (S)",
+              "categories": [
+                {
+                  "categoryCode": "10.3.1.1",
+                  "categoryName": "Професійно-технічна освіта"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "10.4",
+          "groupName": "Вища освіта",
+          "classes": [
+            {
+              "classCode": "10.4.1",
+              "className": "Вища освіта (S)",
+              "categories": [
+                {
+                  "categoryCode": "10.4.1.1",
+                  "categoryName": "Вища освіта"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "10.5",
+          "groupName": "Освіта, що не визначається за рівнями",
+          "classes": [
+            {
+              "classCode": "10.5.1",
+              "className": "Освіта, що не визначається за рівнями (S)",
+              "categories": [
+                {
+                  "categoryCode": "10.5.1.1",
+                  "categoryName": "Освіта, що не визначається за рівнями"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionCode": "11",
+      "sectionName": "РЕСТОРАНИ ТА ГОТЕЛІ",
+      "groups": [
+        {
+          "groupCode": "11.1",
+          "groupName": "Харчування поза домом",
+          "classes": [
+            {
+              "classCode": "11.1.1",
+              "className": "Ресторани, кафе тощо(S)",
+              "categories": [
+                {
+                  "categoryCode": "11.1.1.1",
+                  "categoryName": "Ресторани"
+                },
+                {
+                  "categoryCode": "11.1.1.2",
+                  "categoryName": "Кафе, бари тощо"
+                }
+              ]
+            },
+            {
+              "classCode": "11.1.2",
+              "className": "Їдальні (S)",
+              "categories": [
+                {
+                  "categoryCode": "11.1.2.1",
+                  "categoryName": "Їдальні"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "11.2",
+          "groupName": "Послуги, пов’язані з тимчасовим проживанням",
+          "classes": [
+            {
+              "classCode": "11.2.1",
+              "className": "Послуги, пов’язані з тимчасовим проживанням (S)",
+              "categories": [
+                {
+                  "categoryCode": "11.2.1.1",
+                  "categoryName": "Послуги, пов’язані з тимчасовим проживанням"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionCode": "12",
+      "sectionName": "РІЗНІ ТОВАРИ ТА ПОСЛУГИ",
+      "groups": [
+        {
+          "groupCode": "12.1",
+          "groupName": "Особистий догляд",
+          "classes": [
+            {
+              "classCode": "12.1.1",
+              "className": "Перукарні та заклади по особистому догляду(S)",
+              "categories": [
+                {
+                  "categoryCode": "12.1.1.1",
+                  "categoryName": "Перукарні та заклади по особистому догляду"
+                }
+              ]
+            },
+            {
+              "classCode": "12.1.2",
+              "className": "Електричні прилади для особистого догляду(D)",
+              "categories": [
+                {
+                  "categoryCode": "12.1.2.1",
+                  "categoryName": "Електричні прилади для особистого догляду"
+                }
+              ]
+            },
+            {
+              "classCode": "12.1.3",
+              "className": "Інші прилади та товари для особистого догляду (ND)",
+              "categories": [
+                {
+                  "categoryCode": "12.1.3.1",
+                  "categoryName": "Інші прилади та товари для особистого догляду"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "12.2",
+          "groupName": "Проституція",
+          "classes": [
+            {
+              "classCode": "12.2.1",
+              "className": "Проституція (S)",
+              "categories": [
+                {
+                  "categoryCode": "12.2.1.1",
+                  "categoryName": "Проституція"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "12.3",
+          "groupName": "Особисті речі, не віднесені до інших категорій.",
+          "classes": [
+            {
+              "classCode": "12.3.1",
+              "className": "Ювелірні вироби, годинники (D)",
+              "categories": [
+                {
+                  "categoryCode": "12.3.1.1",
+                  "categoryName": "Ювелірні вироби, годинники"
+                }
+              ]
+            },
+            {
+              "classCode": "12.3.2",
+              "className": "Інші особисті речі (SD)",
+              "categories": [
+                {
+                  "categoryCode": "12.3.2.1",
+                  "categoryName": "Товари для подорожей"
+                },
+                {
+                  "categoryCode": "12.3.2.2",
+                  "categoryName": "Інші особисті речі"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "12.4",
+          "groupName": "Соціальний захист",
+          "classes": [
+            {
+              "classCode": "12.4.1",
+              "className": "Послуги  соціального захисту (S)",
+              "categories": [
+                {
+                  "categoryCode": "12.4.1.1",
+                  "categoryName": "Послуги соціального захисту"
+                },
+                {
+                  "categoryCode": "12.4.1.2",
+                  "categoryName": "Дитячі садочки, няні"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "12.5",
+          "groupName": "Страхування",
+          "classes": [
+            {
+              "classCode": "12.5.2",
+              "className": "Страхування житла (S)",
+              "categories": [
+                {
+                  "categoryCode": "12.5.2.1",
+                  "categoryName": "Страхування житла"
+                }
+              ]
+            },
+            {
+              "classCode": "12.5.3",
+              "className": "Страхування здоров’я (S)",
+              "categories": [
+                {
+                  "categoryCode": "12.5.3.1",
+                  "categoryName": "Страхування здоров’я"
+                }
+              ]
+            },
+            {
+              "classCode": "12.5.4",
+              "className": "Страхування особистого транспорту (S)",
+              "categories": [
+                {
+                  "categoryCode": "12.5.4.1",
+                  "categoryName": "Страхування особистого транспорту"
+                }
+              ]
+            },
+            {
+              "classCode": "12.5.5",
+              "className": "Інші види страхування (S)",
+              "categories": [
+                {
+                  "categoryCode": "12.5.5.1",
+                  "categoryName": "Інші види страхування"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "12.6",
+          "groupName": "Фінансові послуги",
+          "classes": [
+            {
+              "classCode": "12.6.2",
+              "className": "Фінансові послуги (S)",
+              "categories": [
+                {
+                  "categoryCode": "12.6.2.1",
+                  "categoryName": "Фінансові послуги"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "12.7",
+          "groupName": "Інші послуги",
+          "classes": [
+            {
+              "classCode": "12.7.1",
+              "className": "Інші послуги (S)",
+              "categories": [
+                {
+                  "categoryCode": "12.7.1.1",
+                  "categoryName": "Інші послуги"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
